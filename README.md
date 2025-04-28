@@ -7,6 +7,39 @@ This project deepened my knowledge of **SwiftUI**, **@AppStorage for persistent 
 
 Also keeping it simple with the data storage on the device, In the future cloud saving might be a good thing to implement but this approach fits the mission I am going for. Lightweight no fuss app that you can track your liquid/water consumption.
 
+Perfect — here’s a **clean, premium-styled** version you can directly **copy-paste** into your README:
+
+---
+
+## 🛠️ How to Build and Run
+
+> **Quick Start for Developers and Testers**
+
+### 1. 📥 Download or Clone the Repository
+- Click the green **Code** button above and select **Download ZIP**,  
+  or clone it using Git:
+  ```bash
+  git clone https://github.com/kyce-harper/Siply-HydrationTracker.git
+  ```
+
+### 2. 🛠 Open the Project in Xcode
+- Find and double-click the `Siply_HydrationTracker.xcodeproj` file.
+
+### 3. 📱 Select a Simulator
+- Choose a device such as **iPhone 15** or **iPhone 14 Pro** in the Xcode toolbar.
+
+### 4. ▶️ Build and Run
+- Click the **Run** button (`▶️`) or press `Cmd + R` to build and launch the app.
+
+---
+
+> **Requirements**  
+> - macOS 13 or later  
+> - Xcode 15 or later  
+> - No external libraries or setup needed — ready to build out of the box!
+
+---
+
 ## 🚀 What I Learned
 - **State Management & Data Persistence**: Used `@AppStorage` to store user hydration data persistently across app launches.
 - **Animations & UI Design**: Implemented a **fluid water fill animation** to represent real-time intake progress.
