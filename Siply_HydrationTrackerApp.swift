@@ -1,17 +1,17 @@
 //
-//  Siply_HydrationTrackerApp.swift
-//  Siply-HydrationTracker
+//  IWaterApp.swift
+//  IWater
 //
-//  Created by Kyce Harper on 4/28/25.
+//  Created by Kyce Harper on 3/2/25.
 //
 
 import SwiftUI
 
 @main
-struct Siply_HydrationTrackerApp: App {
+struct IWaterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WaterTrackerView()
         }
     }
 }
