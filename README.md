@@ -1,4 +1,4 @@
-# 💧 Water Tracker App
+# 💧 Siply Hydration
 
 ## 📌 About the Project
 This is a beautifully simple water tracking app designed to help users build better hydration habits. My goal was to create an intuitive, aesthetically pleasing experience that makes logging daily water intake effortless. The Code is Not Live and not regularly documented on here. Coming to the AppStore Soon 👀
